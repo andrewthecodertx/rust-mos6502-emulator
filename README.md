@@ -2,7 +2,7 @@
 
 A cycle-accurate emulator for the MOS 6502 processor, written in Rust.
 
-The 6502 was everywhere in the late 70s and 80s — it powered the Apple II,
+The 6502 was everywhere in the late 70s and 80s ,  it powered the Apple II,
 Commodore 64, Atari 2600, and the original NES. It's a beautifully simple
 8-bit CPU with only a handful of registers and a 64KB address space, which
 makes it a great target for learning about low-level programming and computer
@@ -138,11 +138,10 @@ cargo test
 There are tests for individual instructions, addressing modes, and interrupt
 handling.
 
-## Contributing
-
-Contributions are welcome! Feel free to open issues or submit pull requests.
-
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for
-details.
+MIT, see [LICENSE](LICENSE).
+
+## Contributing
+
+PRs welcome. Please open an issue first for major changes.
